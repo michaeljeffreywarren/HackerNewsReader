@@ -1,0 +1,37 @@
+﻿@{
+    ViewBag.Title = "Hacker News Best Stories";
+}
+
+@model IEnumerable<HackerNewsReader.Models.Story>
+
+<h2>Hacker News Best Stories</h2>
+
+<div>
+    <div class="col-md-2">
+        <span>Search title/author:</span>
+    </div>
+    <div class="col-md-8">
+        <input type="text" id="searchStories" />
+    </div>
+</div>
+
+<div class="row top-buffer">
+    <div class="col-md-8">
+        <span style="font-weight: bold">Article Title</span>
+    </div>
+    <div class="col-md-4">
+        <span style="font-weight: bold">Author</span>
+    </div>
+</div>
+
+@foreach (var item in Model)
+{
+    <div class="row articleRow">
+        <div class="col-md-8">
+            <a href="@item.URL" target="_blank" class="articleTitle">@item.Title</a>
+        </div>
+        <div class="col-md-4">
+            <span class="articleTitle">@item.By</span>
+        </div>
+    </div>
+}

@@ -1,0 +1,15 @@
+DiagnosticsPluginLauncher.exe Information: 0 : [3/5/2018 1:45:01 AM] Emulator config file set to C:\Users\Michael Warren\source\repos\Nextech code problem\HackerNewsReader\HackerNewsReader.Azure\csx\Debug\roles\HackerNewsReader\approot\diagnostics.wadcfgx
+DiagnosticsPluginLauncher.exe Information: 0 : [3/5/2018 1:45:01 AM] DiagnosticsStoreRootPath set to: C:\Users\Michael Warren\AppData\Local\dftmp\Resources\71a48d58-b599-4189-bc5a-372828fdb601
+DiagnosticsPluginLauncher.exe Information: 0 : [3/5/2018 1:45:01 AM] Loading config file: C:\Users\Michael Warren\source\repos\Nextech code problem\HackerNewsReader\HackerNewsReader.Azure\csx\Debug\roles\HackerNewsReader\approot\diagnostics.wadcfgx
+DiagnosticsPluginLauncher.exe Information: 0 : [3/5/2018 1:45:01 AM] Config file to read: C:\Users\Michael Warren\source\repos\Nextech code problem\HackerNewsReader\HackerNewsReader.Azure\csx\Debug\roles\HackerNewsReader\approot\diagnostics.wadcfgx
+DiagnosticsPluginLauncher.exe Information: 0 : [3/5/2018 1:45:01 AM] Checking VM Type
+DiagnosticsPluginLauncher.exe Information: 0 : [3/5/2018 1:45:01 AM] Emulator config file set to C:\Users\Michael Warren\source\repos\Nextech code problem\HackerNewsReader\HackerNewsReader.Azure\csx\Debug\roles\HackerNewsReader\approot\diagnostics.wadcfgx
+DiagnosticsPluginLauncher.exe Information: 0 : [3/5/2018 1:45:01 AM] Extension set to Emulator Mode
+DiagnosticsPluginLauncher.exe Information: 0 : [3/5/2018 1:45:01 AM] Reading XML configuration file
+DiagnosticsPluginLauncher.exe Information: 0 : [3/5/2018 1:45:01 AM] Bypassing private config decryption
+DiagnosticsPluginLauncher.exe Information: 0 : [3/5/2018 1:45:01 AM] Stopping the running plugin, if any
+DiagnosticsPluginLauncher.exe Information: 0 : [3/5/2018 1:45:01 AM] No DiagnosticsPlugin is running.
+DiagnosticsPluginLauncher.exe Information: 0 : [3/5/2018 1:45:01 AM] Killing any DiagnosticsPlugin that might remain.
+DiagnosticsPluginLauncher.exe Information: 0 : [3/5/2018 1:45:01 AM] Killing any MonAgentHost that might remain.
+DiagnosticsPluginLauncher.exe Information: 0 : [3/5/2018 1:45:01 AM] Diagnostics plugin stopped successfully
+DiagnosticsPluginLauncher.exe Information: 0 : [3/5/2018 1:45:01 AM] Resetting DiagnosticPlugin
